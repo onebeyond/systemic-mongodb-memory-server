@@ -1,0 +1,28 @@
+{
+  "name": "systemic-mongodb-memory-server",
+  "version": "1.0.0",
+  "description": "Systemic component to use temporal mongodb server for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests available for this package\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidesmiths/systemic-mongodb-memory-server.git"
+  },
+  "keywords": [
+    "systemic"
+  ],
+  "author": "GuideSmiths Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guidesmiths/systemic-mongodb-memory-server/issues"
+  },
+  "homepage": "https://github.com/guidesmiths/systemic-mongodb-memory-server#readme",
+  "dependencies": {
+    "lodash.get": "4.4.2",
+    "mongodb": "3.5.3",
+    "mongodb-memory-server": "6.2.4",
+    "util": "0.12.1"
+  }
+}
