@@ -21,7 +21,7 @@
   "homepage": "https://github.com/guidesmiths/systemic-mongodb-memory-server#readme",
   "dependencies": {
     "lodash.get": "4.4.2",
-    "mongodb": "^3.5.3",
+    "mongodb": "3.5.3",
     "mongodb-memory-server": "^6.2.4",
     "util": "0.12.1"
   }
